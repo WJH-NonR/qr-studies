@@ -18,7 +18,7 @@ We have this upper half of the QR Code.
 
 ## 0x02 Format Information
 
-Open QrazeBox, in editor mode fill in the known part. (you can load half.jpg)
+Open QRazyBox, in editor mode fill in the known part. (you can load half.jpg)
 
 <img src="QR.assets/image-20210209144623916.png" alt="image-20210209144623916" style="zoom:50%;" />
 
