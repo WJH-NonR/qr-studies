@@ -1,6 +1,6 @@
 # How to recover a link from half part of the QR Code
 
-By: wjh_@NGA
+By: wjh_@NGA/@L3HSec
 
 Note: this article and some scripts are written 2 month after finding the link, some data may be incorrect.
 
